@@ -1,8 +1,8 @@
-OLYMPIC VISUALISATION TOOL (June 2025)
+OLYMPIC VISUALISATION TOOL 
 ======================================
 
 Developed and designed by: Austin Quang Do  
-Location: New Zealand  
+New Zealand, June 2025
 Portfolio: https://austindo.framer.website  
 Behance: https://behance.net/austindo  
 
@@ -19,8 +19,7 @@ and interaction logic to create a fully custom scatter plot environment for web.
 --------------------------------------------------------------------------------
 CONFIGURATION / INSTALLATION
 --------------------------------------------------------------------------------
-No installation required. Simply open `index.html` in any modern browser.
-All assets and scripts are self-contained within the project directory.
+Web app, no installation required.
 
 --------------------------------------------------------------------------------
 OPERATING INSTRUCTIONS
@@ -69,23 +68,14 @@ DATA SOURCES
   https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-andresults
 
 --------------------------------------------------------------------------------
-TROUBLESHOOTING
---------------------------------------------------------------------------------
-- **Nothing renders** → Check console for 404 errors on missing image/data assets  
-- **Text overlaps** → Ensure web font files are correctly linked  
-- **Bubbles not clickable** → Verify zoom level or refresh the browser  
-
---------------------------------------------------------------------------------
 KNOWN BUGS / LIMITATIONS
 --------------------------------------------------------------------------------
 - Visual scaling may vary slightly across devices with unusual DPI ratios
-- Performance may drop if too many athletes are loaded simultaneously
-- Historical borders not visualised (countries shown by NOC only)
+
 
 --------------------------------------------------------------------------------
 CREDITS & LICENSE
 --------------------------------------------------------------------------------
-Designed and developed entirely by Austin Quang Do (New Zealand, 2025)  
 For educational and portfolio use only. No Olympic trademarks or logos are used.
 
 --------------------------------------------------------------------------------
@@ -94,16 +84,3 @@ CONTACT
 - Portfolio: https://austindo.framer.website  
 - Behance: https://behance.net/austindo  
 - Email: [available on request]
-
---------------------------------------------------------------------------------
-CHANGELOG
---------------------------------------------------------------------------------
-v1.0 – Initial release  
-- Bubble layout and repulsion logic  
-- Timeline and year selector  
-- Country detail panel with sorting/filtering  
-- Axis variable dropdowns  
-- Tooltip and hover animations  
-- Full data pipeline and athlete aggregation
-
---------------------------------------------------------------------------------
